@@ -1,0 +1,12 @@
+# Исключаем ненужные файлы
+__pycache__
+*.pyc
+.git
+.env
+.venv
+venv
+README.md
+Dockerfile*
+.dockerignore
+*.log
+.gitignore
